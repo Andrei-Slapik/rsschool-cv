@@ -35,5 +35,5 @@ Task 1 [CV Markdown & Git](https://Andrei-Slapik.github.io/rsschool-cv/cv)
   + [Java Script for beginners](https://www.youtube.com/c/ITKAMASUTRA)
   + [First steps. Js for beginners](https://www.youtube.com/watch?v=txByrfFXFv0&list=PLL5_RVHtQuicc0-BSxHr62EEdlzj5cQQL)
 ## Languages:
-Russian - native speaker
-English - A1(Beginner)
+* Russian - native speaker
+* English - A1(Beginner)
