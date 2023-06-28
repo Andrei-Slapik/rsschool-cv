@@ -24,3 +24,16 @@ function highAndLow(numbers){
 ```
 ## Experience:
 Task 1 [CV Markdown & Git](https://Andrei-Slapik.github.io/rsschool-cv/cv)
+## Education:
+* Belarusian State University of Informatics and Radioelectronics
+2007-2012
+* Books
+  + Head First HTML and CSS Freeman E., Robson E.
+  + Head First JavaScript Programming Freeman E., Robson E.
+  + https://schoolsw3.com/js/index.php
+* Courses
+  + [Java Script for beginners](https://www.youtube.com/c/ITKAMASUTRA)
+  + [First steps. Js for beginners](https://www.youtube.com/watch?v=txByrfFXFv0&list=PLL5_RVHtQuicc0-BSxHr62EEdlzj5cQQL)
+## Languages:
+Russian - native speaker
+English - A1(Beginner)
